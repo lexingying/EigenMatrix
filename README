@@ -1,0 +1,13 @@
+This package implements the examples in the paper https://arxiv.org/abs/2311.16609
+
+For each example, run the corresponding .m file.
+
+Rational approximation:	  exR.m
+	 
+Spectral function estimation: exS.m
+
+Fourier inversion: exF.m
+
+Laplace inversion: exL.m
+
+Sparse deconvolution: exD.m
